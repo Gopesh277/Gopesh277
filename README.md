@@ -2,9 +2,9 @@
 
 # Gopesh
 
-### AI • Machine Learning • Full Stack Engineering
+### AI | Machine Learning | Full Stack Engineering | Cloud 
 
-*Building intelligent software that solves real-world problems.*
+*Transforming ideas into applications.*
 
 <p>
   <a href="https://github.com/Gopesh277">
@@ -58,11 +58,11 @@ I enjoy solving practical problems through software engineering, whether it's de
 
 ## Featured Work
 
-### 🏥 AI Hospital Monitoring System
-Real-time patient monitoring using AI and Computer Vision to detect abnormal health conditions and instantly notify healthcare staff.
+### 🏥 AI LEGAL ASSISTANT
+Real-time contract verification, checks vulnerabilities,calculates risk score and recommend deal signing! .
 
-### 📦 AI Warehouse Vision
-Smart surveillance platform for theft detection, worker activity analysis, safety monitoring, and inventory intelligence.
+### 📦 AI AUTO DATA CLEANING
+Smart data cleaning for the datasets!
 
 ### 🔐 RSA Encryption Platform
 A Flask-based application demonstrating secure RSA encryption and decryption with an intuitive web interface.
