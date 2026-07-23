@@ -1,169 +1,132 @@
-````markdown
 <div align="center">
 
-# Hi, I'm Gopesh 👋
+# Gopesh
 
-### Building AI-powered software that solves real-world problems.
+### AI • Machine Learning • Full Stack Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;AI+%7C+Machine+Learning+%7C+Full+Stack+Developer;Linux+%26+Docker+Enthusiast;Always+Learning.+Always+Building." />
+*Building intelligent software that solves real-world problems.*
 
-<br>
+<p>
+  <a href="https://github.com/Gopesh277">
+    <img src="https://img.shields.io/badge/GitHub-Gopesh277-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Gopesh277&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Development;Linux+%7C+Docker+%7C+Cloud;Always+Learning.+Always+Building."/>
 
 </div>
 
 ---
 
-# About Me
+## About
 
-I'm a Computer Science Engineering student passionate about building software that combines **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**.
+I'm a Computer Science Engineering student passionate about designing software that combines **Artificial Intelligence**, **Machine Learning**, and **modern backend systems**.
 
-Rather than just learning technologies, I enjoy creating projects that solve practical problems—from AI-powered automation to intelligent monitoring systems and scalable web applications.
-
-Currently exploring
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full Stack Development
-- ☁️ Cloud Computing
-- 🐳 Docker & Linux
-- 📊 Data Science
-- ⚡ System Design
+I enjoy solving practical problems through software engineering, whether it's developing AI-powered applications, scalable web platforms, or automation tools. My goal is to build products that are reliable, efficient, and meaningful.
 
 ---
 
-# Tech Stack
+## Focus Areas
 
-### Languages
+- Artificial Intelligence & Machine Learning
+- Full Stack Development
+- Backend Engineering
+- Cloud Computing
+- Docker & Linux
+- System Design
+- Open Source
 
-<p>
+---
+
+## Technology Stack
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript"/>
-</p>
 
-### Frontend
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask"/>
 
-### Backend
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,mongodb,mysql,docker,linux,git,vscode"/>
 
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
 </p>
 
 ---
 
-# Current Mission
+## Featured Work
+
+### 🏥 AI Hospital Monitoring System
+Real-time patient monitoring using AI and Computer Vision to detect abnormal health conditions and instantly notify healthcare staff.
+
+### 📦 AI Warehouse Vision
+Smart surveillance platform for theft detection, worker activity analysis, safety monitoring, and inventory intelligence.
+
+### 🔐 RSA Encryption Platform
+A Flask-based application demonstrating secure RSA encryption and decryption with an intuitive web interface.
+
+### 🛡 Python Honeypot
+A lightweight security system that captures intrusion attempts, records attacker activity, and visualizes threat data.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gopesh277&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopesh277&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Gopesh277&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## Engineering Principles
 
 ```text
-Build impactful AI products
-Contribute to Open Source
-Master DSA & System Design
-Become an SDE
-Launch innovative startups
-````
+• Write clean, maintainable code.
+• Build solutions that solve real problems.
+• Learn continuously and iterate relentlessly.
+• Prefer simplicity over unnecessary complexity.
+• Focus on impact, not just implementation.
+```
 
 ---
 
-# GitHub Analytics
+## Current Goals
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gopesh277&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopesh277&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- Build production-ready AI applications
+- Strengthen Data Structures & Algorithms
+- Contribute to Open Source
+- Explore Cloud & DevOps
+- Engineer scalable backend systems
 
 ---
 
-# Contribution Streak
+## Let's Connect
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Gopesh277&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopesh277&theme=tokyo-night"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gopesh277&theme=algolia&column=4&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
-# Featured Projects
-
-| Project                     | Description                                               |
-| --------------------------- | --------------------------------------------------------- |
-| 🤖 AI Hospital Monitoring   | Intelligent patient monitoring using AI & Computer Vision |
-| 📦 AI Warehouse Vision      | Theft detection & worker activity monitoring              |
-| 🛡 Honeypot Security System | Python-based honeypot for cyber attack detection          |
-| 🧹 Auto Data Cleaner        | Automated preprocessing using Machine Learning            |
-| 🔐 RSA Encryption App       | Flask application implementing RSA cryptography           |
-
----
-
-# What I'm Learning
-
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Docker
-* Cloud Computing
-* DevOps
-* Large Language Models (LLMs)
-
----
-
-# Let's Connect
-
-<p>
+<p align="left">
 
 <a href="https://github.com/Gopesh277">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<!-- Add your LinkedIn when available -->
-
+<!-- Add LinkedIn -->
 <!-- Add Portfolio -->
+<!-- Add Email -->
 
 </p>
 
@@ -171,9 +134,11 @@ Launch innovative startups
 
 <div align="center">
 
-### "Great software isn't just written—it's engineered to solve meaningful problems."
+> *"The best software isn't built to impress—it is built to make a difference."*
 
-⭐ Thanks for visiting my profile.
+Thanks for visiting my profile.
+
+⭐ If you find my projects interesting, consider giving them a star.
 
 </div>
-```
+````
